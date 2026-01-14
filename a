@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>...</title>
+
+  <!-- Redirección automática (segundos) -->
+  <meta http-equiv="refresh" content="2;url=https://onlyfans.com/">
+
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: black;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
+    img {
+      max-width: 80%;
+      max-height: 60vh;
+      border-radius: 12px;
+    }
+
+    h1 {
+      margin-top: 20px;
+      font-size: 28px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- IMAGEN (cambiá el nombre si usás otro archivo) -->
+  <img src="imagen.jpg" alt="">
+
+  <!-- TEXTO -->
+  <h1>Uuuuy… qué pajín jajaja</h1>
+
+</body>
+</html>
